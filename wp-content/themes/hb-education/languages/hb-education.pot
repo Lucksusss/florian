@@ -1,0 +1,728 @@
+# Copyright (C) 2018 Hummingbirdthemes
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: HB Education\n"
+"POT-Creation-Date: 2018-03-06 14:03+0545\n"
+"PO-Revision-Date: 2018-03-06 14:03+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: functions.php:57
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:117
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:125
+msgid "Footer"
+msgstr ""
+
+#: functions.php:127
+msgid "Add Upto 4 widgets here."
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:3
+#: hummingbird/customizer/customizer-footer.php:4
+msgid "HB Footer Options"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:10
+msgid "Buttom Footer Options"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:11
+msgid "Copyright and Social"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:22
+msgid "Facebook URL"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:34
+msgid "Twitter URL"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:47
+msgid "Linked In URL"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:60
+msgid "Google Plus URL"
+msgstr ""
+
+#: hummingbird/customizer/customizer-footer.php:73
+msgid "Pinterest URL"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:3
+msgid "HB Front Page Options"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:4
+msgid "HB Education Theme Customization Options"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:17
+msgid "Slider/Carousel Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:18
+msgid "Customization Options For Image Carousel"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:30
+msgid "Enable Slider Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:43
+#: hummingbird/customizer/customizer-front.php:242
+#: hummingbird/customizer/customizer-front.php:290
+#: hummingbird/customizer/customizer-front.php:338
+#: hummingbird/customizer/customizer-front.php:386
+msgid "Choose Category"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:55
+msgid "Number of Images"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:69
+msgid "Front Feature Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:70
+msgid ""
+"Select pages for ColorFull Feature section, you can also change the icon per "
+"page"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:83
+msgid "Enable About Us"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:99
+msgid "Select First Page"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:113
+msgid "Icon For first Tab "
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:114
+#, php-format
+msgid "Use font awesome icon: Eg: %1$s See more here %2$s %3$s"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:130
+msgid "Select Second Page "
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:144
+msgid "Icon For Secont Tab"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:145
+msgid "Font awesome Icon Example fa fa-user"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:160
+msgid "Select Third Page "
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:174
+msgid "Icon For Third Tab"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:175
+msgid "Font awesome Icon example fa fa-question"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:190
+msgid "Select Fourth Page "
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:204
+msgid "Icon For Fourth Tab"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:205
+msgid "Font awesome Icon example fa fa-rocket"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:218
+msgid "Course Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:219
+msgid "Customization Options For Course"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:229
+#: hummingbird/customizer/customizer-front.php:277
+#: hummingbird/customizer/customizer-front.php:325
+#: hummingbird/customizer/customizer-front.php:373
+msgid "Section Title"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:254
+msgid "Number of Courses"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:266
+msgid "Testimonial Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:267
+msgid "Customization Options For Testimonial"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:302
+msgid "Number of Testimonials"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:314
+msgid "Teacher Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:315
+msgid "Customization Options For Teacher"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:350
+msgid "Number of Teachers"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:362
+msgid "Blog Section"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:363
+msgid "Customization Options For Blog"
+msgstr ""
+
+#: hummingbird/customizer/customizer-front.php:398
+msgid "Number of Blog Posts"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:3
+msgid "HB Header Options"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:4
+msgid "HB Education Header Options"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:10
+#: hummingbird/customizer/customizer-header.php:11
+msgid "Top Left Announcement"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:23
+msgid "Top Left Notice Title"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:37
+msgid "Choose Notice Category"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:45
+msgid "Middle Header Address"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:46
+msgid "Middle Header Contact Address"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:57
+msgid "Top Right Phone Number"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:71
+msgid "Top Right Email Address"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:84
+msgid "Top Right Street Address"
+msgstr ""
+
+#: hummingbird/customizer/customizer-header.php:96
+msgid "Top Right State & Country"
+msgstr ""
+
+#: hummingbird/customizer/dropdown-category.php:40
+msgid "Select"
+msgstr ""
+
+#: hummingbird/hooks.php:66
+msgid "Announcement"
+msgstr ""
+
+#: hummingbird/hooks.php:170
+msgid "Toggle navigation"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: hummingbird/hooks.php:281
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. translators: %s: post author.
+#: hummingbird/theme-tags.php:16
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: hummingbird/theme-tags.php:31 inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: hummingbird/theme-tags.php:34
+#, php-format
+msgid "Posted on %1$s"
+msgstr ""
+
+#. translators: 1: no of comments.
+#: hummingbird/theme-tags.php:50
+#, php-format
+msgid "%1$s Comment"
+msgstr ""
+
+#. translators: 1: no of comments.
+#: hummingbird/theme-tags.php:53 hummingbird/theme-tags.php:56
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: hummingbird/theme-tags.php:59
+msgid "Comment Closed"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:758
+#: hummingbird/third-party/breadcrumbs.php:787
+#: hummingbird/third-party/breadcrumbs.php:814
+#: hummingbird/third-party/breadcrumbs.php:841
+#: hummingbird/third-party/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:759
+#: hummingbird/third-party/breadcrumbs.php:815
+#: hummingbird/third-party/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:760
+#: hummingbird/third-party/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: hummingbird/third-party/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/demo/demo.php:16
+msgid "Import HB Education Demo"
+msgstr ""
+
+#: inc/demo/demo.php:20
+msgid "It will overwrite your settings"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "HB Education Setup"
+msgstr ""
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+#, php-format
+msgid ""
+"We hope this page will help you to setup %1$s with few clicks. We believe "
+"you will find it easy to use and perfect for your website development."
+msgstr ""
+
+#: inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr ""
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info/about.php:29 inc/theme-info/about.php:120
+#: inc/theme-info/class-about.php:603
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/theme-info/about.php:37
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/about.php:38 inc/theme-info/about.php:54
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/theme-info/about.php:39
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/about.php:45 inc/theme-info/about.php:108
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:46
+msgid "Find step by step instructions to setup theme easily."
+msgstr ""
+
+#: inc/theme-info/about.php:47
+msgid "View documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:55
+msgid ""
+"We recommend few steps to take so that you can get complete site like shown "
+"in demo."
+msgstr ""
+
+#: inc/theme-info/about.php:56
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/theme-info/about.php:63
+msgid "Customize Everything"
+msgstr ""
+
+#: inc/theme-info/about.php:64
+msgid "Start customizing every aspect of the website with customizer."
+msgstr ""
+
+#: inc/theme-info/about.php:65
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/about.php:78
+msgid "Setting Static Front Page"
+msgstr ""
+
+#: inc/theme-info/about.php:79
+msgid ""
+"Create a new page to display on front page ( Ex: Home ) and assign \"Home\" "
+"template. Select A static page then Front page and Posts page to display "
+"front page specific sections. Note: Static page will be set automatically "
+"when you import demo content."
+msgstr ""
+
+#: inc/theme-info/about.php:82
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/theme-info/about.php:86
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/theme-info/about.php:87
+msgid ""
+"Please install the One Click Demo Import plugin to import the demo content. "
+"After activation go to Appearance >> Import Demo Data and import it."
+msgstr ""
+
+#: inc/theme-info/about.php:99 inc/theme-info/about.php:102
+msgid "Contact Support"
+msgstr ""
+
+#: inc/theme-info/about.php:101
+msgid ""
+"If you have any problem, feel free to create ticket on our dedicated Support "
+"forum."
+msgstr ""
+
+#: inc/theme-info/about.php:110
+msgid ""
+"Kindly check our theme documentation for detailed information and video "
+"instructions."
+msgstr ""
+
+#: inc/theme-info/about.php:111
+msgid "View Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:117
+msgid "Customization Request"
+msgstr ""
+
+#: inc/theme-info/about.php:119
+#, php-format
+msgid ""
+"This is 100% free theme and has premium version.Either Upgrade to Pro or  "
+"Feel free to contact us any time if you need any customization service."
+msgstr ""
+
+#: inc/theme-info/class-about.php:164
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: inc/theme-info/class-about.php:164
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/theme-info/class-about.php:561
+msgid "Install"
+msgstr ""
+
+#: inc/theme-info/class-about.php:565
+msgid "Activate"
+msgstr ""
+
+#: inc/theme-info/class-about.php:569
+msgid "Deactivate"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-archive.php:25 template-parts/content-single.php:22
+#: template-parts/content.php:27
+msgid "M"
+msgstr ""
+
+#: template-parts/content-archive.php:30 template-parts/content-single.php:25
+#: template-parts/content.php:32
+msgid "d"
+msgstr ""
+
+#: template-parts/content-archive.php:56 template-parts/content-search.php:23
+#: template-parts/content.php:58
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:55
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "HB Education"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpcodefactory.com/item/hb-education-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"HB Education Theme is a simple, clean, beautifully designed responsive "
+"WordPress Education WordPress Theme. It is minimal but mostly used features "
+"will help you setup your website easily and quickly. Full width layout, "
+"featured slider,services/features layout, blog layout, social media "
+"integration, full width page layout and woocommerce ready. Fully responsive, "
+"cross-browser compatible, SEO friendly, HB Education Theme is multi-purpose "
+"and is suitable for School, College, University. Highest level of "
+"compatibility with mostly used WP plugins. Great customer support via online "
+"chat, email, support forum. Demo: http://demo.hummingbirdthemes.com/hb-"
+"education/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "hummingbirdthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://hummingbirdthemes.com"
+msgstr ""
